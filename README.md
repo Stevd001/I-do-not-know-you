@@ -1,2 +1,2 @@
-# I-don-t-know-you
+# I-do-not-know-you
 Social App for getting to know other humans.
